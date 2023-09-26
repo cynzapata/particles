@@ -1,4 +1,6 @@
 # Three.js Journey
+This project shows a practice project to understand particles and animating particles in a threejs scene
+It shows starts that mimic the movement of a wave
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
