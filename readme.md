@@ -1,6 +1,7 @@
 # Three.js Journey
-This project shows a practice project to understand particles and animating particles in a threejs scene
-It shows starts that mimic the movement of a wave
+This project showcases my understanding of particles and animating particles in a Three.js scene.
+I utilized Three.js, Node.js, Vercel, Javascript, HTML, and CSS to make a cluster of particles that mimic the movement of a wave.
+I followed Bruno Simon's tutorial to understand how to load textures, gui controls, lights, create objects, and animation in Three.js  
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
